@@ -77,7 +77,10 @@ public class WavFileManager {
             
             var sampleSize: Int = 0
             
-            if sampleRate == 22050 {
+            if sampleRate == 16000 {
+                sampleSize = 192
+            }
+            else if sampleRate == 22050 {
                 sampleSize = 256
             }
             else if sampleRate == 44100 {

@@ -1,7 +1,7 @@
 PODS:
   - PlainPocketFFT (0.0.9)
   - PocketFFT (0.0.1)
-  - RosaKit (0.0.6):
+  - RosaKit (0.0.11):
     - PlainPocketFFT (~> 0.0.9)
     - PocketFFT (~> 0.0.1)
 
@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   PlainPocketFFT: 3763f37fba0737e457ed1a3b9b7bfa70c00ff213
   PocketFFT: cdbe7ef5b7cd08520655d85d03d701b5ba35fdec
-  RosaKit: 02cda721ff10053041e17269d23020247269c9e8
+  RosaKit: 6e28b09f5eb990148a401e0c4b4ff0c207bd6569
 
-PODFILE CHECKSUM: 5a26e4d412be76e11d075c662b00c33386142ac1
+PODFILE CHECKSUM: 5f97bdef1d520fb1d16b8fa1a21a4cb05c7a2aa9
 
-COCOAPODS: 1.11.2
+COCOAPODS: 1.12.1
